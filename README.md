@@ -5,7 +5,7 @@
 - Desenvolver uma solução para um problema real do dia-a-dia;
 
 ## Realizado por:
-- Eduardo Rebelo () -> Estudante de Licenciatura em Engenharia de Sistemas Informáticos - IPCA
+- Eduardo Rebelo (21105) -> Estudante de Licenciatura em Engenharia de Sistemas Informáticos - IPCA
 - João Oliveira () -> Estudante de Licenciatura em Engenharia de Sistemas Informáticos - IPCA
 - Gonçalo Gonçalves () -> Estudante de Licenciatura em Engenharia de Sistemas Informáticos - IPCA
 - Pedro Daniel Fernandes Rei (26013) -> Estudante de Licenciatura em Engenharia de Sistemas Informáticos - IPCA
