@@ -1,4 +1,4 @@
-# Projeto - Projeto Desenvolvimento de Software
+# Projeto Desenvolvimento de Software
 * Este é um repositório criado para a realização do projeto para a unidade curricular Projeto Desenvolviemnto de Software (Linguagem C#, SQL)
 
 ## Objetivos:
