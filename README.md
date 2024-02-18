@@ -7,6 +7,6 @@
 ## Realizado por:
 - Eduardo Rebelo (21105) -> Estudante de Licenciatura em Engenharia de Sistemas Informáticos - IPCA
 - João Oliveira () -> Estudante de Licenciatura em Engenharia de Sistemas Informáticos - IPCA
-- Gonçalo Gonçalves () -> Estudante de Licenciatura em Engenharia de Sistemas Informáticos - IPCA
+- Gonçalo Gonçalves (26019) -> Estudante de Licenciatura em Engenharia de Sistemas Informáticos - IPCA
 - Pedro Daniel Fernandes Rei (26013) -> Estudante de Licenciatura em Engenharia de Sistemas Informáticos - IPCA
 - Rui Miguel () -> Estudante de Licenciatura em Engenharia de Sistemas Informáticos - IPCA
