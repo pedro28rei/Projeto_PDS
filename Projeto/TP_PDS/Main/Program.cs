@@ -4,7 +4,7 @@
 * -Contacto: pedro28rei@gmail.com
 * -Data: 23/02/2024
 * LESI - PDS
-* 
+* G9
 */
 
 using Objetos;
