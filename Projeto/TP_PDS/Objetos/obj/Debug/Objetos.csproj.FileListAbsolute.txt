@@ -1,0 +1,6 @@
+C:\Users\pedro\Desktop\PDS\TP_PDS\Objetos\bin\Debug\Objetos.dll
+C:\Users\pedro\Desktop\PDS\TP_PDS\Objetos\bin\Debug\Objetos.pdb
+C:\Users\pedro\Desktop\PDS\TP_PDS\Objetos\obj\Debug\Objetos.csproj.AssemblyReference.cache
+C:\Users\pedro\Desktop\PDS\TP_PDS\Objetos\obj\Debug\Objetos.csproj.CoreCompileInputs.cache
+C:\Users\pedro\Desktop\PDS\TP_PDS\Objetos\obj\Debug\Objetos.dll
+C:\Users\pedro\Desktop\PDS\TP_PDS\Objetos\obj\Debug\Objetos.pdb
